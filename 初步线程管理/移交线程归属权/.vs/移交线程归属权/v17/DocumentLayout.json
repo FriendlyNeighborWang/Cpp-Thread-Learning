@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C\u002B\u002BLearning\\Thread\u0026Concurrency\\\u521D\u6B65\u7EBF\u7A0B\u7BA1\u7406\\\u79FB\u4EA4\u7EBF\u7A0B\u5F52\u5C5E\u6743\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B2406773-7837-45BA-9113-728E08F81962}|\u79FB\u4EA4\u7EBF\u7A0B\u5F52\u5C5E\u6743\\\u79FB\u4EA4\u7EBF\u7A0B\u5F52\u5C5E\u6743.vcxproj|D:\\C\u002B\u002BLearning\\Thread\u0026Concurrency\\\u521D\u6B65\u7EBF\u7A0B\u7BA1\u7406\\\u79FB\u4EA4\u7EBF\u7A0B\u5F52\u5C5E\u6743\\\u79FB\u4EA4\u7EBF\u7A0B\u5F52\u5C5E\u6743\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B2406773-7837-45BA-9113-728E08F81962}|\u79FB\u4EA4\u7EBF\u7A0B\u5F52\u5C5E\u6743\\\u79FB\u4EA4\u7EBF\u7A0B\u5F52\u5C5E\u6743.vcxproj|solutionrelative:\u79FB\u4EA4\u7EBF\u7A0B\u5F52\u5C5E\u6743\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "D:\\C\u002B\u002BLearning\\Thread\u0026Concurrency\\\u521D\u6B65\u7EBF\u7A0B\u7BA1\u7406\\\u79FB\u4EA4\u7EBF\u7A0B\u5F52\u5C5E\u6743\\\u79FB\u4EA4\u7EBF\u7A0B\u5F52\u5C5E\u6743\\main.cpp",
+              "RelativeDocumentMoniker": "\u79FB\u4EA4\u7EBF\u7A0B\u5F52\u5C5E\u6743\\main.cpp",
+              "ToolTip": "D:\\C\u002B\u002BLearning\\Thread\u0026Concurrency\\\u521D\u6B65\u7EBF\u7A0B\u7BA1\u7406\\\u79FB\u4EA4\u7EBF\u7A0B\u5F52\u5C5E\u6743\\\u79FB\u4EA4\u7EBF\u7A0B\u5F52\u5C5E\u6743\\main.cpp",
+              "RelativeToolTip": "\u79FB\u4EA4\u7EBF\u7A0B\u5F52\u5C5E\u6743\\main.cpp",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAAAEsAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-24T15:13:44.162Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
