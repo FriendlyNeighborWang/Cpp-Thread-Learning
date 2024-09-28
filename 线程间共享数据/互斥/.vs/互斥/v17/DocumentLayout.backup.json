@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C\u002B\u002BLearning\\Thread\u0026Concurrency\\\u7EBF\u7A0B\u95F4\u5171\u4EAB\u6570\u636E\\\u4E92\u65A5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CD36898B-CBA1-421F-9921-3A170CDE71D6}|\u4E92\u65A5\\\u4E92\u65A5.vcxproj|D:\\C\u002B\u002BLearning\\Thread\u0026Concurrency\\\u7EBF\u7A0B\u95F4\u5171\u4EAB\u6570\u636E\\\u4E92\u65A5\\\u4E92\u65A5\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CD36898B-CBA1-421F-9921-3A170CDE71D6}|\u4E92\u65A5\\\u4E92\u65A5.vcxproj|solutionrelative:\u4E92\u65A5\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD36898B-CBA1-421F-9921-3A170CDE71D6}|\u4E92\u65A5\\\u4E92\u65A5.vcxproj|D:\\C\u002B\u002BLearning\\Thread\u0026Concurrency\\\u7EBF\u7A0B\u95F4\u5171\u4EAB\u6570\u636E\\\u4E92\u65A5\\\u4E92\u65A5\\threadsafe_stack.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CD36898B-CBA1-421F-9921-3A170CDE71D6}|\u4E92\u65A5\\\u4E92\u65A5.vcxproj|solutionrelative:\u4E92\u65A5\\threadsafe_stack.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "threadsafe_stack.h",
+              "DocumentMoniker": "D:\\C\u002B\u002BLearning\\Thread\u0026Concurrency\\\u7EBF\u7A0B\u95F4\u5171\u4EAB\u6570\u636E\\\u4E92\u65A5\\\u4E92\u65A5\\threadsafe_stack.h",
+              "RelativeDocumentMoniker": "\u4E92\u65A5\\threadsafe_stack.h",
+              "ToolTip": "D:\\C\u002B\u002BLearning\\Thread\u0026Concurrency\\\u7EBF\u7A0B\u95F4\u5171\u4EAB\u6570\u636E\\\u4E92\u65A5\\\u4E92\u65A5\\threadsafe_stack.h",
+              "RelativeToolTip": "\u4E92\u65A5\\threadsafe_stack.h",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAADQAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-28T14:25:51.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "D:\\C\u002B\u002BLearning\\Thread\u0026Concurrency\\\u7EBF\u7A0B\u95F4\u5171\u4EAB\u6570\u636E\\\u4E92\u65A5\\\u4E92\u65A5\\main.cpp",
+              "RelativeDocumentMoniker": "\u4E92\u65A5\\main.cpp",
+              "ToolTip": "D:\\C\u002B\u002BLearning\\Thread\u0026Concurrency\\\u7EBF\u7A0B\u95F4\u5171\u4EAB\u6570\u636E\\\u4E92\u65A5\\\u4E92\u65A5\\main.cpp",
+              "RelativeToolTip": "\u4E92\u65A5\\main.cpp",
+              "ViewState": "AgIAACQAAAAAAAAAAAAMwC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-27T10:03:39.45Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
