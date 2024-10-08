@@ -14,17 +14,25 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "01.cpp",
               "DocumentMoniker": "D:\\C\u002B\u002BLearning\\Thread\u0026Concurrency\\\u521D\u6B65\u7EBF\u7A0B\u7BA1\u7406\\helloworld\\helloworld\\01.cpp",
               "RelativeDocumentMoniker": "helloworld\\01.cpp",
-              "ToolTip": "D:\\C\u002B\u002BLearning\\Thread\u0026Concurrency\\\u521D\u6B65\u7EBF\u7A0B\u7BA1\u7406\\helloworld\\helloworld\\01.cpp*",
-              "RelativeToolTip": "helloworld\\01.cpp*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAALAAAAAAAAAA==",
+              "ToolTip": "D:\\C\u002B\u002BLearning\\Thread\u0026Concurrency\\\u521D\u6B65\u7EBF\u7A0B\u7BA1\u7406\\helloworld\\helloworld\\01.cpp",
+              "RelativeToolTip": "helloworld\\01.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-09-24T14:08:36.001Z",
               "EditorCaption": ""
