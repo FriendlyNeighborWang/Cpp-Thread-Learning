@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C\u002B\u002BLearning\\Thread\u0026Concurrency\\ExerciseBoard\\Concurrency Search\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3F639C18-86F3-4435-8C7F-ACEDFBA4B6E3}|Concurrency Search\\Concurrency Search.vcxproj|D:\\C\u002B\u002BLearning\\Thread\u0026Concurrency\\ExerciseBoard\\Concurrency Search\\Concurrency Search\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3F639C18-86F3-4435-8C7F-ACEDFBA4B6E3}|Concurrency Search\\Concurrency Search.vcxproj|solutionrelative:Concurrency Search\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "D:\\C\u002B\u002BLearning\\Thread\u0026Concurrency\\ExerciseBoard\\Concurrency Search\\Concurrency Search\\main.cpp",
+              "RelativeDocumentMoniker": "Concurrency Search\\main.cpp",
+              "ToolTip": "D:\\C\u002B\u002BLearning\\Thread\u0026Concurrency\\ExerciseBoard\\Concurrency Search\\Concurrency Search\\main.cpp*",
+              "RelativeToolTip": "Concurrency Search\\main.cpp*",
+              "ViewState": "AgIAABgAAAAAAAAAAAAiwCUAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-09T12:07:58.355Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C\u002B\u002BLearning\\Thread\u0026Concurrency\\\u5E76\u53D1\u64CD\u4F5C\u7684\u540C\u6B65\\wait_for\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A1D636B2-16FF-492E-8766-B9624CFF7F86}|wait_for\\wait_for.vcxproj|D:\\C\u002B\u002BLearning\\Thread\u0026Concurrency\\\u5E76\u53D1\u64CD\u4F5C\u7684\u540C\u6B65\\wait_for\\wait_for\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A1D636B2-16FF-492E-8766-B9624CFF7F86}|wait_for\\wait_for.vcxproj|solutionrelative:wait_for\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "D:\\C\u002B\u002BLearning\\Thread\u0026Concurrency\\\u5E76\u53D1\u64CD\u4F5C\u7684\u540C\u6B65\\wait_for\\wait_for\\main.cpp",
+              "RelativeDocumentMoniker": "wait_for\\main.cpp",
+              "ToolTip": "D:\\C\u002B\u002BLearning\\Thread\u0026Concurrency\\\u5E76\u53D1\u64CD\u4F5C\u7684\u540C\u6B65\\wait_for\\wait_for\\main.cpp",
+              "RelativeToolTip": "wait_for\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-16T14:34:00.911Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
