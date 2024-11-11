@@ -1,16 +1,28 @@
 #include <chrono>
 #include <future>
 #include <thread>
+#include <iostream>
 
-int some_task() {
-	return 0;
+struct num_pair {
+	int a;
+	int b;
+};
+void add_a(num_pair* ptr) {
+	for(int i=0;i<100000;i++)
+		ptr->a += 1;
 }
-void do_something(int) {
-
+void add_b(num_pair* ptr) { 
+	for (int i = 0; i < 100000; i++)
+		ptr->b += 1; 
 }
 
 int main() {
-	std::future<int> f = std::async(some_task);
-	if (f.wait_for(std::chrono::milliseconds(35)) == std::future_status::ready)
-		do_something(f.get());
+	num_pair t = { 0,0 };
+	std::future<void> task_a = std::async(std::launch::async, add_a, &t);
+	std::future<void> task_b = std::async(std::launch::async, add_b, &t);
+
+	task_a.wait();
+	task_b.wait();
+
+	std::cout << t.a << " " << t.b << std::endl;
 }
